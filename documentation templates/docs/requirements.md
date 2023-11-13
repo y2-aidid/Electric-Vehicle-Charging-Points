@@ -59,11 +59,11 @@ TODO: Your Use-Case diagram should include all use-cases.
 
 ## Software Requirements Specification
 ### Functional requirements
-TODO: create a list of functional requirements. 
-    e.g. "The system shall ..."
-    Give each functional requirement a unique ID. e.g. FR1, FR2, ...
-    Indicate which UC the requirement comes from.
-
+TODO: 
+The System should show a clear marking for all the ev ports on the map
+The system should require access to the users location
+They system should show the availibilty on the ports that the user is looking at
+The system should show the price of how much it cost to charge the vehicle
 
 ### Non-Functional Requirements
 TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
