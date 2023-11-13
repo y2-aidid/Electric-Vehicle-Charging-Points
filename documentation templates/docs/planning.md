@@ -32,4 +32,4 @@ Users may fail to identify charging points as once everyone discovers this app, 
 ## Project Scope
 TODO: Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.
 
-![Insert your Context Diagram Here](iext.png)
+![Insert your Context Diagram Here](documentation templates/docs/images/Capture.PNG)
