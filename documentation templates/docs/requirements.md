@@ -22,12 +22,12 @@ TODO: Describe each use case (at least one per team member).
     Give each use case a unique ID, e.g. UC1, UC2, ...
     Summarise these using the use-case template below.
 
-| UC1| TODO: USE-CASE NAME | 
+| TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
-| **Description** | TODO: Goal to be achieved by use case and sources for requirement |
-| **Actors** | TODO: List of actors involved in use case |
-| **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
-| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
+| **Description** | TODO: Goal to be achieved is the user needs to find a full pump without having to go from pump to pump wasting electricity|
+| **Actors** | TODO: electric vehicle |
+| **Assumptions** | TODO: use app to see full ports</td></tr>
+| **Steps** | TODO: check on app to see which ports are full and available to use |
 | **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
@@ -42,16 +42,15 @@ TODO: Describe each use case (at least one per team member).
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
-| UC3| EV charging point | 
+| UC1| EV charging point | 
 | -------------------------------------- | ------------------- |
-| **Description** | TODO: Goal to be achieved by use case and sources for requirement |
-| **Actors** | TODO: List of actors involved in use case |
-| **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
-| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
+| **Description** | TODO: make sure pumps are being used to make sure that pumps are not being wasted |
+| **Actors** | TODO: charging point |
+| **Assumptions** | TODO: check app to make sure pumps are active ands are being used</td></tr>
+| **Steps** | TODO: check app,if busy add more ports|
 | **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
-
 
 TODO: Your Use-Case diagram should include all use-cases.
 
