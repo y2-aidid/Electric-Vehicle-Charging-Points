@@ -3,7 +3,7 @@
 ## Business Case
 
 ### Problem statement
-TODO: The Electric Vehicle Charging point projected is aimed to help electric vehicle users allocate a charging point for the Vehicle. As Electric Vehicle is becomming more and more used and that by 2030 all new vehicles made must be electric, I belive that our app will support and benefit a lot of electric vehicle users to allocate charging points.
+TODO: The Electric Vehicle Charging point projected is aimed to help electric vehicle users allocate a charging point for the Vehicle. As Electric Vehicle is becomming more and more used and that by 2030 all new vehicles made must be electric, I belive that our app will support and benefit a lot of electric vehicle users to allocate charging points as all vechile users in the future will be using charging point where this app will benefit them a lot from saving time, money and battery when finding a charging point.
 
 ### Business benefits
 TODO: Allow them to identify the closest charging points.
