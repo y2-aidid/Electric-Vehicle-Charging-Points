@@ -61,8 +61,11 @@ TODO: Your Use-Case diagram should include all use-cases.
 ### Functional requirements
 TODO: 
 The System should show a clear marking for all the ev ports on the map
+
 The system should require access to the users location
+
 They system should show the availibilty on the ports that the user is looking at
+
 The system should show the price of how much it cost to charge the vehicle
 
 ### Non-Functional Requirements
