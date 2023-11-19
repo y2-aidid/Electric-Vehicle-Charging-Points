@@ -69,6 +69,9 @@ The system should show the price of how much it cost to charge the vehicle
 
 ### Non-Functional Requirements
 TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
-Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
 
-Indicate which UC the requirement comes from.
+NFR1: The app should quickly respons to the user when used (performance efficiency) 
+
+NFR2: The app should clearly show all the points with suitable sized marking (usability)
+
+NFR3:
