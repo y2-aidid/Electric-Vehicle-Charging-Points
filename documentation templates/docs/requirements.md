@@ -74,4 +74,6 @@ NFR1: The app should quickly respons to the user when used (performance efficien
 
 NFR2: The app should clearly show all the points with suitable sized marking (usability)
 
-NFR3:
+NFR3: The app should be usable on safari and all internet browsers (compatibillity)
+
+NFR4: The app should have a default location if there is no location provided by the user (reliability)
