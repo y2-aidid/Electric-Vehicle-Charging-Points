@@ -1,4 +1,4 @@
- Electric Vechile Charging Points
+                           Electric Vechile Charging Points
 
 Our project is to create a app that allows public and mainly Electric Vehicle users have access to a app which shows them the nearest full charging point. We will be doing this by gathering data from Bristol Open Data which will support us with creating this app as it will provide us the data we need for this app to be usefull to Electric Vechile users.
 
