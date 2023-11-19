@@ -1,6 +1,6 @@
-# TODO: Electric Vechile Charging Points
+ Electric Vechile Charging Points
 
-TODO: Brief outline of your project describing the dataset and a link to it.
+Our project is to create a app that allows public and mainly Electric Vehicle users have access to a app which shows them the nearest full charging point. We will be doing this by gathering data from Bristol Open Data which will support us with creating this app as it will provide us the data we need for this app to be usefull to Electric Vechile users.
 
 1. [Planning](docs/planning.md)
 2. [Requirements](docs/requirements.md)
