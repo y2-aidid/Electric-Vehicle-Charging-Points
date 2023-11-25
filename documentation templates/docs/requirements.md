@@ -76,4 +76,13 @@ NFR2: The app should clearly show all the points with suitable sized marking (us
 NFR3: The app should be usable on chrome internet browsers (compatibillity)
 
 NFR4: The app should have a suitable default location if there is no location provided by the user (reliability)
- 
+
+NFR5: The app should be update to make sure there are working ev ports on all the marked locations on the app (functional suitability)
+
+NFR6: The app should respond to the users request in quick timing (performance efficiency)
+
+NFR7: The app should be able to be used on mobile as well as other devices (portability)
+
+NFR8: (security)
+
+NFR9:(maintainability) 
