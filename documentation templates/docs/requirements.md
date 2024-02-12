@@ -22,7 +22,7 @@ Describe each use case (at least one per team member).
     Give each use case a unique ID, e.g. UC1, UC2, ...
     Summarise these using the use-case template below.
 
-| USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
+| USE-CASE ID e.g. UC1, UC2, ... | USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
 | **Description** | Goal to be achieved is the user needs to find a full pump without having to go from pump to pump wasting electricity|
 | **Actors** | electric vehicle |
@@ -40,7 +40,7 @@ Describe each use case (at least one per team member).
 | **Steps** | Check to see which ev ports are empty, replace them with new ones, make available for public use.
 | **Variations** | Any variations in the steps of a use case |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+| **Issues** | List of issues that remain to be resolved |
 
 | UC1| EV charging point | 
 | -------------------------------------- | ------------------- |
@@ -52,7 +52,7 @@ Describe each use case (at least one per team member).
 | **Non-functional** | List of non-functional requirements that the use case must meet. |
 | **Issues** | List of issues that remain to be resolved |
 
-TODO: Your Use-Case diagram should include all use-cases.
+Your Use-Case diagram should include all use-cases.
 
 ![Insert your Use-Case Diagram Here](images/use-case.png)
 
