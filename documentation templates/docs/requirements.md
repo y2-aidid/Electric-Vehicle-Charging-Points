@@ -39,7 +39,7 @@ Describe each use case (at least one per team member).
 | **Assumptions** | uses app to see which charging ports are nearly empty.
 | **Steps** | Check to see which ev ports are empty, replace them with new ones, make available for public use.
 | **Variations** | Any variations in the steps of a use case |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
+| **Non-functional** | List of non-functional requirements that the use case must meet. |
 | **Issues** | List of issues that remain to be resolved |
 
 | UC1| EV charging point | 
