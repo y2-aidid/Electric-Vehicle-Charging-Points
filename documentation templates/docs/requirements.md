@@ -24,33 +24,33 @@ Describe each use case (at least one per team member).
 
 | TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
-| **Description** | TODO: Goal to be achieved is the user needs to find a full pump without having to go from pump to pump wasting electricity|
-| **Actors** | TODO: electric vehicle |
-| **Assumptions** | TODO: use app to see full ports</td></tr>
-| **Steps** | TODO: check on app to see which ports are full and available to use |
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+| **Description** | Goal to be achieved is the user needs to find a full pump without having to go from pump to pump wasting electricity|
+| **Actors** | electric vehicle |
+| **Assumptions** | use app to see full ports</td></tr>
+| **Steps** | check on app to see which ports are full and available to use |
+| **Variations** |  Any variations in the steps of a use case |
+| **Non-functional** | List of non-functional requirements that the use case must meet. |
+| **Issues** |  List of issues that remain to be resolved |
 
-| UC2| TODO: USE-CASE NAME | 
+| UC2| USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
-| **Description** | TODO: The goal for the worker is to make sure that they change the empty batteries to a full one for users to access. |
-| **Actors** | TODO: Worker who changes empty batteries for full ones |
-| **Assumptions** | TODO: uses app to see which charging ports are nearly empty.
-| **Steps** | TODO: Check to see which ev ports are empty, replace them with new ones, make available for public use.
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
+| **Description** | The goal for the worker is to make sure that they change the empty batteries to a full one for users to access. |
+| **Actors** | Worker who changes empty batteries for full ones |
+| **Assumptions** | uses app to see which charging ports are nearly empty.
+| **Steps** | Check to see which ev ports are empty, replace them with new ones, make available for public use.
+| **Variations** | Any variations in the steps of a use case |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
 | UC1| EV charging point | 
 | -------------------------------------- | ------------------- |
 | **Description** | TODO: make sure pumps are being used to make sure that pumps are not being wasted |
-| **Actors** | TODO: charging point |
-| **Assumptions** | TODO: check app to make sure pumps are active ands are being used</td></tr>
-| **Steps** | TODO: check app,if busy add more ports|
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+| **Actors** | charging point |
+| **Assumptions** | check app to make sure pumps are active ands are being used</td></tr>
+| **Steps** | check app,if busy add more ports|
+| **Variations** | Any variations in the steps of a use case |
+| **Non-functional** | List of non-functional requirements that the use case must meet. |
+| **Issues** | List of issues that remain to be resolved |
 
 TODO: Your Use-Case diagram should include all use-cases.
 
