@@ -22,7 +22,7 @@ Describe each use case (at least one per team member).
     Give each use case a unique ID, e.g. UC1, UC2, ...
     Summarise these using the use-case template below.
 
-| TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
+| USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
 | **Description** | Goal to be achieved is the user needs to find a full pump without having to go from pump to pump wasting electricity|
 | **Actors** | electric vehicle |
@@ -44,7 +44,7 @@ Describe each use case (at least one per team member).
 
 | UC1| EV charging point | 
 | -------------------------------------- | ------------------- |
-| **Description** | TODO: make sure pumps are being used to make sure that pumps are not being wasted |
+| **Description** | make sure pumps are being used to make sure that pumps are not being wasted |
 | **Actors** | charging point |
 | **Assumptions** | check app to make sure pumps are active ands are being used</td></tr>
 | **Steps** | check app,if busy add more ports|
