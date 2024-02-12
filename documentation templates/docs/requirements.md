@@ -3,7 +3,7 @@
 ## User Needs
 
 ### User stories
-TODO: 
+ 
 
     As a EV user, I want to find the nearest charging point that is full, as it will save some of my leletric from being wasted of travelling to the furthest electric charging point that is empty and having to travel around to find a full charging point.
 
@@ -12,13 +12,13 @@ TODO:
     As the user who recharges the charging point, I want to make sure that all charging point is full by checking the app which point has ran out off charger, so I can recharger that point allowing a EV users to have access to a full charging point. Without this, I will struggle to find charging point with no charger left making less charging points available for users.
 
 ### Actors
-TODO: List and describe the actors/users for this product.
+List and describe the actors/users for this product.
 User 1 - A Electric Vehicle user who needs access to a charging point.
 User 2 - A Bristol City Coucncil member who needs access to the app for data.
 User 3 - A Worker who changes the empty battery to a full battery by using the app to identify which charging point is empty.
 
 ### Use Cases
-TODO: Describe each use case (at least one per team member).
+Describe each use case (at least one per team member).
     Give each use case a unique ID, e.g. UC1, UC2, ...
     Summarise these using the use-case template below.
 
@@ -59,13 +59,13 @@ TODO: Your Use-Case diagram should include all use-cases.
 ## Software Requirements Specification
 ### Functional requirements
  
-The System should show a clear marking for all the ev ports on the map
+FR1: The System should show a clear marking for all the ev ports on the map
 
-The system should require access to the users location
+FR2: The system should require access to the users location
 
-They system should show the availibilty on the ports that the user is looking at
+FR3: They system should show the availibilty on the ports that the user is looking at
 
-The system should show the price of how much it cost to charge the vehicle
+FR4: The system should show the price of how much it cost to charge the vehicle
 
 ### Non-Functional Requirements
 
