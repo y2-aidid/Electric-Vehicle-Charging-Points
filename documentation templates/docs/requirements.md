@@ -19,10 +19,10 @@ User 3 - A Worker who changes the empty battery to a full battery by using the a
 
 ### Use Cases
 Describe each use case (at least one per team member).
-    Give each use case a unique ID, e.g. UC1, UC2, ...
+    Give each use case a unique ID
     Summarise these using the use-case template below.
 
-| USE-CASE ID e.g. UC1, UC2, ... | USE-CASE NAME | 
+| USE-CASE ID| USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
 | **Description** | Goal to be achieved is the user needs to find a full pump without having to go from pump to pump wasting electricity|
 | **Actors** | electric vehicle |
