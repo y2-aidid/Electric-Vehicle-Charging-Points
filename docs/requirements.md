@@ -5,11 +5,11 @@
 ### User stories
  
 
-    As a EV user, I want to find the nearest charging point that is full, as it will save some of my leletric from being wasted of travelling to the furthest electric charging point that is empty and having to travel around to find a full charging point.
+    As a EV user, my role is to find the nearest charging point that is full, as it will save some of my eleletric from being wasted of travelling to the furthest electric charging point that is empty and having to travel around to find a full charging point.
 
-    As the council, I want to check all charging points on the app to gather data as it will show if they are beeing used or if we need more charging points so that fidning a EV charging point for EV users will not be difficult by making sure that there is enough charging points. Without the app, we would not know wether we need new charging points or not and if we did not bring new extra charging points, EV users will struggle to find available charging points.
-
-    As the user who recharges the charging point, I want to make sure that all charging point is full by checking the app which point has ran out off charger, so I can recharger that point allowing a EV users to have access to a full charging point. Without this, I will struggle to find charging point with no charger left making less charging points available for users.
+    As the council, my role is to check all charging points on the app to gather data, the benifit of this is it will show if they are beeing used or if we need more charging points. 
+    
+    As the user my role is to recharge the charging point, the benifit of this is I will make sure that all charging point is full by checking the app which point has ran out off charger. 
 
 ### Actors
 User 1 - A Electric Vehicle user who needs access to a charging point.
