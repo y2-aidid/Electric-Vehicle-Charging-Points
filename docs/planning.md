@@ -23,7 +23,7 @@ Another option We have considered is 'Is the charging point full?'. This is also
 
 Another option We have considered is 'Will the charging point charge money?'. This is a vital option to consider as some EV may be free and some may not be. EV users consider this option so they a prepared to pay if required. 
 
-Another option We have considered is 'Is the charger applicaple for the vehicle?' This is a vital option to consider as users need to be able to find a compatible charging point for their vechile.
+Another option We have considered is 'Is the charger applicaple for the vehicle?' This is a vital option to consider as users need to be able to find a compatible charging point for their vehicle.
 
 Another option We have considered is 'Is all charging spot available?'. All EV users consider this as they need a available charging point as if they turn up to a location with EV charging points all beeing used, they have to go to another location as cahrging a EV takes time meaning all users at that location may not be able to sacrifice their spot for the user looking for a avaiable spot.
 
