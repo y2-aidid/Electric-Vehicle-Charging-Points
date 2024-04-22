@@ -12,15 +12,11 @@
     As the user who recharges the charging point, I want to make sure that all charging point is full by checking the app which point has ran out off charger, so I can recharger that point allowing a EV users to have access to a full charging point. Without this, I will struggle to find charging point with no charger left making less charging points available for users.
 
 ### Actors
-List and describe the actors/users for this product.
 User 1 - A Electric Vehicle user who needs access to a charging point.
 User 2 - A Bristol City Coucncil member who needs access to the app for data.
 User 3 - A Worker who changes the empty battery to a full battery by using the app to identify which charging point is empty.
 
 ### Use Cases
-Describe each use case (at least one per team member).
-    Give each use case a unique ID
-    Summarise these using the use-case template below.
 
 | USE-CASE ID| USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
