@@ -14,10 +14,10 @@ Identifying business benefits during planning is important as it will help us id
       
 
 ### Options Considered
-During planning, we need to consider options for our users as it is vital. This is becausewithout considering any options during planning, we won't be able to meet their standards meaning this app won't be very usefull as it doesn't really help them identify electric vechile charging points.
+During planning, we need to consider options for our users as it is vital. This is becausewithout considering any options during planning, we won't be able to meet their standards meaning this app won't be very usefull as it doesn't really help them identify electric vehicle charging points.
 One option We have considered is ' What are some other customer options or leading products that address the same needs?'. This is important as later on we know have to identify options with a EV charging point for our users.
 
-Another option We have considered is 'Does the EV charging point charger all vehicle?'. This is also important that we have considered this option as we now have to check what types of EV charging point for our users and how will we let them know if it is compatible for the vechile because if we also fail to identify this, users will struggle to find the right charging point.
+Another option We have considered is 'Does the EV charging point charger all vehicle?'. This is also important that we have considered this option as we now have to check what types of EV charging point for our users and how will we let them know if it is compatible for the vehicle because if we also fail to identify this, users will struggle to find the right charging point.
 
 Another option We have considered is 'Is the charging point full?'. This is also a  important option as users need to be able to find the right full charging point as without helping them identify which charging point is full, they will struggle to find one making the app usless.
 
