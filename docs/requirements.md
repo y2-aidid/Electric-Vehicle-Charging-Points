@@ -21,7 +21,7 @@ User 3 - A Worker who changes the empty battery to a full battery by using the a
 | USE-CASE ID| USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
 | **Description** | Goal to be achieved is the user needs to find a full pump without having to go from pump to pump wasting electricity|
-| **Actors** | electric vehicle |
+| **Actors** | electric vehicle driver |
 | **Assumptions** | use app to see full ports</td></tr>
 | **Steps** | check on app to see which ports are full and available to use |
 | **Variations** |  Any variations in the steps of a use case |
