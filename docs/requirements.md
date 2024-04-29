@@ -41,7 +41,7 @@ User 3 - A Worker who changes the empty battery to a full battery by using the a
 | UC1| EV charging point | 
 | -------------------------------------- | ------------------- |
 | **Description** | make sure pumps are being used to make sure that pumps are not being wasted |
-| **Actors** | charging point |
+| **Actors** | EV charging Maintenance |
 | **Assumptions** | check app to make sure pumps are active ands are being used</td></tr>
 | **Steps** | check app,if busy add more ports|
 | **Variations** | Any variations in the steps of a use case |
