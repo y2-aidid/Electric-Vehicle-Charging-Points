@@ -4,7 +4,7 @@
 This page is our business case for Electric Vehicle Charging Points which will help and support users allocate the right, perfect and suitable charging point with our app. By making sure they are able to allocate the right, perfect and suitable charging point, we will create a plan with a problem statement, business benefit, options considered, expected risk and project scope. This plan will help me identify anything which I or my partners have missed out. This is important as without a plan, we will go through a lot off issues and problems which could lead to our app being not usefull to our users.
 
 ### Problem statement
- A problem statement is a statment of porblems which have been identified by me or my partners. This is a big thing to do while planning as not identifing problems could later lead the problem occuring which we may not be able to deal with properly as identifying problems inadvance will prepare us.
+ A problem statement is a statment of problems which have been identified by me or my partners. This is a big thing to do while planning as not identifing problems could later lead the problem occuring which we may not be able to deal with properly as identifying problems inadvance will prepare us.
 The Electric Vehicle Charging point project is aim to help electric vehicle users allocate a charging point for the Vehicle. As Electric Vehicle is becomming more and more used and that by 2030 all new vehicles made must be electric, I belive that our app will support and benefit a lot of electric vehicle users to allocate charging points as all vehicle users in the future will be using charging point where this app will benefit them a lot from saving time, money and battery when finding a charging point.
 
 ### Business benefits
