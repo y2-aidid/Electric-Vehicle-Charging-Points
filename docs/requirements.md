@@ -50,7 +50,7 @@ User 3 - A Worker who changes the empty battery to a full battery by using the a
 
 Your Use-Case diagram should include all use-cases.
 
-"C:\Users\a2-abdillahi\OneDrive - UWE Bristol\map.html"
+![UML use case diagram](images/UseCase Diagram0.png)
 
 ## Software Requirements Specification
 ### Functional requirements
