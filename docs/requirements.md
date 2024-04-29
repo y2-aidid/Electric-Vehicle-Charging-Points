@@ -31,7 +31,7 @@ User 3 - A Worker who changes the empty battery to a full battery by using the a
 | UC2| USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
 | **Description** | The goal for the worker is to make sure that they change the empty batteries to a full one for users to access. |
-| **Actors** | Worker who changes empty batteries for full ones |
+| **Actors** | EV Mechanic |
 | **Assumptions** | uses app to see which charging ports are nearly empty.
 | **Steps** | Check to see which ev ports are empty, replace them with new ones, make available for public use.
 | **Variations** | Any variations in the steps of a use case |
