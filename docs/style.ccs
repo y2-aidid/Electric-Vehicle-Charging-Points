@@ -1,0 +1,94 @@
+/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Roboto Slab', serif;
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr;
+    height: 100vh;
+  }
+  
+  header {
+    background-color: #1e1e1e;
+    padding: 20px;
+  }
+  
+  .heading a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 24px;
+  }
+  
+  .search {
+    display: flex;
+    align-items: center;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    border: none;
+    background-color: #333;
+    color: #ffffff;
+  }
+  
+  button[type="submit"] {
+    background-color: #555;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"] i {
+    color: #ffffff;
+  }
+  
+  nav {
+    background-color: #1e1e1e;
+    padding: 20px;
+  }
+  
+  nav button {
+    margin-bottom: 10px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #555;
+    padding: 10px;
+  }
+  
+  thead {
+    background-color: #333;
+    color: #ffffff;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #222;
+  }
+  
+  .w3-button {
+    background-color: #00bfff;
+    color: #ffffff;
+  }
+  
+  .w3-button:hover {
+    background-color: #009acd;
+  }
