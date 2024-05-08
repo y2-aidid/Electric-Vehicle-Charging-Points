@@ -10,8 +10,9 @@ style.ccs acts as the file that shows how the set will look when being accessed
 
 ## Software Architecture
 TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
+![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/148769173/f12d568f-b1bd-4e9e-ab21-c949c567e87a)
 
-![Insert your component Diagram here](APIDiagram0.png)
+
 
 ## Bristol Open Data API
 TODO: Document each query to Bristol Open Data
