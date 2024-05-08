@@ -51,7 +51,7 @@ User 3 - A Worker who changes the empty battery to a full battery by using the a
 Your Use-Case diagram should include all use-cases.
 
 ![UML use case diagram](images/UseCaseDiagram0.png)
-
+this use case diagram shows the three actors included and their roles. 
 ## Software Requirements Specification
 ### Functional requirements
  
