@@ -5,7 +5,8 @@ TODO: Describe the current version of the system (with version number. Include s
 Are there any known issues? 
 Describe the deployment of software components to hardware nodes using a UML Deployment diagram.
 
-![Insert Deployment diagram here](images/deployment.png)
+![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/148769173/54a091ca-0eda-4d43-bf5a-ec72279392e1)
+
 
 # User guide
 TODO: Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
