@@ -38,5 +38,6 @@ Users may fail to identify charging points as once everyone discovers this app, 
 
 ## Project Scope
 This diagram diplays the electric charging vehicle point in the center and shows all the things related to make the platform succesful. the phone app, bristol open data, open gov license, charging station and payment system are the 5 keys that i highlighted because of how essetial they are to the creation of the website.
+
 ![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/148769173/112f5f64-a893-4850-9294-be566444f9d7)
 
