@@ -38,4 +38,5 @@ Users may fail to identify charging points as once everyone discovers this app, 
 
 ## Project Scope
 Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.
-([documentation templates/docs/images/Capture.PNG](https://raw.githubusercontent.com/y2-aidid/Electric-Vehicle-Charging-Points/main/documentation%20templates/docs/images/Capture.PNG?token=GHSAT0AAAAAACKHURWAQA6KX75B2YDX7PT6ZKSFKMA)
+![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/148769173/112f5f64-a893-4850-9294-be566444f9d7)
+
