@@ -1,7 +1,7 @@
 # Implementation
 
 ## Introduction
-TODO: Describe the system implemented (Describe the dataset. Are there any known issues? Describe any configuration data).
+The implementation to use the electricle vehicle charging ports were made by using bristol open data. using this data helps us capitilize on all information needed to make iit as easy as possible for us. This data mentions the exact location, the manufacturer and weather it is in a public car park.
 
 ## Project Structure
 TODO: Provide an outline of the project folder structure and the role of each file within it.
