@@ -9,7 +9,7 @@ map.html allows access to see the area we are working within and shows the local
 style.ccs acts as the file that shows how the set will look when being accessed
 
 ## Software Architecture
-TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
+We found that charging point manganement is one significant component. This is generally done through the charging point management, which includes charging station networks, availability, status, and location. The user is provided with information regarding the closest charging station and resources to facilitate booking or charge initialization.
 ![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/148769173/f12d568f-b1bd-4e9e-ab21-c949c567e87a)
 
 
