@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EV Charger Locator</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000000;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 20px 0;
+        }
+        .header h1 {
+            font-size: 2em;
+            margin: 0;
+            color: #007bff;
+        }
+        .search-form {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .search-form input[type="text"] {
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1em;
+            width: 300px;
+            margin-right: 10px;
+        }
+        .search-form button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 1em;
+            cursor: pointer;
+        }
+        .search-form button:hover {
+            background-color: #0056b3;
+        }
+        .result-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .result-table th, .result-table td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        .result-table th {
+            background-color: #007bff;
+            color: #fff;
+        }
+        .result-table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+    </style>
+    <script>
+        function searchChargers(term) {
+            let urlEncoded = encodeURIComponent(term);
+            let url = `https://api.openchargemap.io/v3/poi/?output=json&countrycode=GB&maxresults=50&client=myclient&verbose=true&compact=false&location=${urlEncoded}`;
+            fetch(url, { method: 'GET', headers: { 'Accept': 'application/json' }})
+            .then (response => response.json())
+            .then(displayResults);
+        }
+
+        function displayResults(json) {
+            let resultsTable = document.getElementById("results");
+            resultsTable.innerHTML = ''; 
+            let chargers = json.data;
+            chargers.forEach(charger => {
+                let row = resultsTable.insertRow();
+                let nameCell = row.insertCell(0);
+                let typeCell = row.insertCell(1);
+                nameCell.textContent = charger.AddressInfo.Title;
+                typeCell.textContent = charger.AddressInfo.UsageType.Title;
+            });
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Find Electric Vehicle Charging Points</h1>
+        </div>
+        <div class="search-form">
+            <input name="searchterm" placeholder="Enter location..." type="text" id="locationInput">
+            <button onclick="searchChargers(document.getElementById('locationInput').value)">Search</button>
+        </div>
+        <table class="result-table" id="results">
+            <thead>
+                <tr><th>Name</th><th>Type</th></tr>
+            </thead>
+            <tbody>
+              
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
+
