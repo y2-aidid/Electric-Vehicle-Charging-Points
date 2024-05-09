@@ -15,7 +15,7 @@ A description will show and the user can decide if they want to use it after acc
 
 ![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/148769173/fdf87833-3bb6-48df-aaf8-08739f8958aa)
 
-
+Users are introduced to an entrance page that clearly diplays what the website is, what the optionals are and how to access what you need
 ![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/149386846/60cc6566-c0c3-466b-83cb-6b72936a88f4)
 
 
