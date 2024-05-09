@@ -48,10 +48,10 @@ User 3 - A Worker who changes the empty battery to a full battery by using the a
 | **Non-functional** | List of non-functional requirements that the use case must meet. |
 | **Issues** | List of issues that remain to be resolved |
 
-Your Use-Case diagram should include all use-cases.
+
 
 ![UML use case diagram](images/UseCaseDiagram0.png)
-this use case diagram shows the three actors included and their roles. 
+This use case diagram shows the three actors included and their roles. 
 ## Software Requirements Specification
 ### Functional requirements
  
