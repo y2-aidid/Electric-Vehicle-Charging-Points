@@ -19,8 +19,8 @@ Create a requirements traceability matrix to validate the completeness of the pr
 Test & USE Case ID Number
 UCID1 - Run App
 
-| Use-Case ID | Requirement  | Test Case | Status |
-|  UCID1|  | Run smoothly succesfully no issues| User Interface   | Pass|
+| Use-Case ID |            Requirement     |  Test Case      |Status|
+|  UCID1|Run smoothly succesfully no issues| User Interface  | Pass |
 |             |                |           |        |
 
 TODO: Add rows for each test, current status is eg. pass/fail
