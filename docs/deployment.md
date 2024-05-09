@@ -14,6 +14,8 @@ They will be directed to a location that where the chargers are and it will come
 A description will show and the user can decide if they want to use it after accessing the information
 
 ![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/148769173/fdf87833-3bb6-48df-aaf8-08739f8958aa)
+![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/149386846/60cc6566-c0c3-466b-83cb-6b72936a88f4)
+
 
 TODO: Repeat as necessary
 Abdiazziz Abdillahi
