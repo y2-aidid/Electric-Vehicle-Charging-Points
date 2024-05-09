@@ -53,10 +53,20 @@ Generating reports on charging station utilization.
 
 ## Architectural style
 
-**Microservices**
+**Microservices:**
 
 The microservice architecture is the perfect architecture for large-scale applications with complex requirements, high needs for scalability and development distributed over multiple teams. This enables the team to work on different services independently, therefore allowing easy and quick fixes on the go if needed at any time.
 
+
+**Event-Driven:**
+
+Respond to charging session charge events to determine usage and to prepare billing.
+
+Notification Services: Create and send alert notifications about a change in the charging state.
+
+Load Balancing Systems: It is a process of optimization of energy distribution, based on real-time charging events.
+
+Data analytics: Analysis of event data for optimization of charging infrastructure and user experience.
 
 
 ## Bristol Open Data API
