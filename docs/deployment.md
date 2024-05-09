@@ -7,7 +7,9 @@ The latest and most up to date version of thie system runs in a way to optimize 
 
 
 # User guide
-TODO: Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
+Users will enter the location that they want to find the charging points are.
+
+They will be directed to a location that where the chargers are and it will come up on the table the names of these charging point
 
 ![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/148769173/fdf87833-3bb6-48df-aaf8-08739f8958aa)
 
