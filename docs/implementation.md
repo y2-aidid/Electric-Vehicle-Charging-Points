@@ -55,7 +55,7 @@ Generating reports on charging station utilization.
 
 **Microservices**
 
-The microservice architecture is the perfect architecture for large-scale applications with complex requirements, high needs for scalability, and development distributed over multiple teams. This enables the team to work on different services independently, thus allowing easy and quick fixes on the go if needed at any time.
+The microservice architecture is the perfect architecture for large-scale applications with complex requirements, high needs for scalability and development distributed over multiple teams. This enables the team to work on different services independently, therefore allowing easy and quick fixes on the go if needed at any time.
 
 
 
