@@ -23,7 +23,11 @@ style.ccs acts as the file that shows how the set will look when being accessed
 ## Software Architecture
 We found that charging point manganement is one significant component. This is generally done through the charging point management, which includes charging station networks, availability, status, and location. The user is provided with information regarding the closest charging station and resources to facilitate booking or charge initialization.
 ![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/148769173/f12d568f-b1bd-4e9e-ab21-c949c567e87a)
-
+Front end layer
+Dashboard: A central hub displaying charging station status, availability, and user account information.
+Map Interface: Interactive map showing the locations of charging stations and real-time availability.
+Charging Session Control: Interface for initiating, monitoring, and managing charging sessions.
+Profile Management: User profiles for personalized settings, payment methods, and usage history.
 
 
 ## Bristol Open Data API
