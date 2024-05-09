@@ -1,7 +1,7 @@
 # Implementation
 
 ## Introduction
-The implementation to use the electricle vehicle charging ports were made by using bristol open data. using this data helps us capitilize on all information needed to make iit as easy as possible for us. This data mentions the exact location, the manufacturer and weather it is in a public car park. The dataset made availaible is very accurate and reliable but is also capable of making mistakes and having inacurate information. An API was used from bristol open data to provide all the information needed. The user interface that was provided helps give users a pisitive experience when looking for chargers.
+The implementation to use the electricle vehicle charging ports were made by using bristol open data. using this data helps us capitilize on all information needed to make it as easy as possible for us. This data mentions the exact location, the manufacturer and weather it is in a public car park. The dataset made availaible is very accurate and reliable but is also capable of making mistakes and having inacurate information. An API was used from bristol open data to provide all the information needed. The user interface that was provided helps give users a pisitive experience when looking for chargers.
 
 
 ## Project Structure
