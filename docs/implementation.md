@@ -27,8 +27,11 @@ We found that charging point manganement is one significant component. This is g
 Front end layer:
 
 A central hub displaying charging station status, availability and user account information.
+
 Map Interface: Interactive map showing the locations of charging stations and real-time availability.
+
 Charging Session Control: Interface for initiating, monitoring and managing charging sessions.
+
 Profile Management: User profiles for personalized settings, payment methodsand usage history.
 
 
