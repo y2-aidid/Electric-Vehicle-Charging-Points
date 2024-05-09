@@ -27,5 +27,5 @@ Using find on map will take the user to a map of their city, then allowing them 
 ![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/149386846/60cc6566-c0c3-466b-83cb-6b72936a88f4)
 
 
-TODO: Repeat as necessary
+
 Abdiazziz Abdillahi
