@@ -50,5 +50,4 @@ T8 - UCID7- Index code - Functionable home page - A perfect page with clear layo
 
 
 
-
-TODO: Add rows for each test, current status is eg. pass/fail
+Case study yahye aidid
