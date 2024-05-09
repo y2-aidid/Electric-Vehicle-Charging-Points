@@ -3,6 +3,14 @@
 ## Introduction
 The implementation to use the electricle vehicle charging ports were made by using bristol open data. using this data helps us capitilize on all information needed to make it as easy as possible for us. This data mentions the exact location, the manufacturer and weather it is in a public car park. The dataset made availaible is very accurate and reliable but is also capable of making mistakes and having inacurate information,This may cause some issues but it can be fixed by reliable checks and making sure everything is up to date. An API was used from bristol open data to provide all the information needed this is used for easy access so its not difficlt for third party access. The user interface that was provided helps give users a pisitive experience when looking for chargers.
 
+**Known issues**
+**Data Issues:**
+If data is not checked and not given updates information will be very outdated and this can cause major issues with consumers
+
+**Technology issues:**
+
+If the charger has issues this will comprimse users charging their vehicle which can cause major conplaints which can harm the business brand and reliability
+
 
 ## Project Structure
 provide a table listing the number of jslint warnings/reports for each module.
