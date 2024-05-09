@@ -11,3 +11,5 @@ This here is our wireframes that we created.This shows how users will be able to
 ![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/148769173/b91f6473-5b2d-49e9-bd24-4e5531449850)
 
 
+
+## Abdikarin Farah
