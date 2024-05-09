@@ -6,6 +6,7 @@ The implementation to use the electricle vehicle charging ports were made by usi
 ## Known issues
 
 **Data Issues:**
+
 If data is not checked and not given updates information will be very outdated and this can cause major issues with consumers
 
 **Technology issues:**
@@ -50,7 +51,7 @@ Collecting usage statistics and performance metrics.
 Generating reports on charging station utilization.
 
 
-**Architectural style:**
+## Architectural style
 
 **Microservices**
 
