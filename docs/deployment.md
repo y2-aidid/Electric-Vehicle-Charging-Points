@@ -11,6 +11,8 @@ Users will enter the location that they want to find the charging points are.
 
 They will be directed to a location that where the chargers are and it will come up on the table the names of these charging point
 
+A description will show and the user can decide if they want to use it after accessing the information
+
 ![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/148769173/fdf87833-3bb6-48df-aaf8-08739f8958aa)
 
 TODO: Repeat as necessary
