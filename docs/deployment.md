@@ -18,6 +18,10 @@ A description will show and the user can decide if they want to use it after acc
 Users are introduced to an entrance page that clearly diplays what the website is, what the optionals are and how to access what you need
 
 Users can select the option of what they need to be redirected to that page.
+
+Choosing the find type option will redirect the userr to allow them to choose the specific type of charger they are  interested in
+
+Using find on map will take the user to a map of their city, then allowing them to specifically search for chargers in that location. The user can pick the charger they want and access all information related to the specific charger
 ![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/149386846/60cc6566-c0c3-466b-83cb-6b72936a88f4)
 
 
