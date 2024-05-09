@@ -34,6 +34,12 @@ Charging Session Control: Interface for initiating, monitoring and managing char
 
 Profile Management: User profiles for personalized settings, payment methodsand usage history.
 
+Analytic and reporting:
+
+Collecting usage statistics and performance metrics.
+
+Generating reports on charging station utilization.
+
 
 ## Bristol Open Data API
 TODO: Document each query to Bristol Open Data
