@@ -28,4 +28,4 @@ Using find on map will take the user to a map of their city, then allowing them 
 
 
 
-Abdiazziz Abdillahi
+Abdiazziz Abdillahi- user guide and release notes
