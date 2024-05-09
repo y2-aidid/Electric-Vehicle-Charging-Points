@@ -41,3 +41,4 @@ This diagram diplays the electric charging vehicle point in the center and shows
 
 ![image](https://github.com/y2-aidid/Electric-Vehicle-Charging-Points/assets/148769173/112f5f64-a893-4850-9294-be566444f9d7)
 
+Case study Yahye Aidid
