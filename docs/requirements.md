@@ -83,4 +83,4 @@ NFR8:The app should should keep users safe just incase they get into a accident 
 
 NFR9:The app should maintain frequent updates for users to see once they open the app like available pumps (maintainability) 
 
-Abdiazziz Abdillahi
+Abdiazziz Abdillahi-requirments lists, use case diagram and user stories
