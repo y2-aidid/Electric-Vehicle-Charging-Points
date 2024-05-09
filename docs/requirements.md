@@ -82,3 +82,5 @@ NFR7: The app should be able to be used on mobile as well as other devices (port
 NFR8:The app should should keep users safe just incase they get into a accident this can reported easily.eg time and place (security)
 
 NFR9:The app should maintain frequent updates for users to see once they open the app like available pumps (maintainability) 
+
+Abdiazziz Abdillahi
